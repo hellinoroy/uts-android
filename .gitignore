@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Expo build and config files
+.expo/
+.expo-shared/
+
+
+# Log files
+*.log
+
+
